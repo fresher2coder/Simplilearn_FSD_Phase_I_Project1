@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 /** The MedicineNotFoundException layer provides customized Exceptions
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

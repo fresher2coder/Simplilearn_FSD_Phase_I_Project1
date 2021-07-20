@@ -4,7 +4,7 @@ import java.util.Date;
 
 /** The ErrorDetails layer provides Exceptions for timestamp,message,details
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

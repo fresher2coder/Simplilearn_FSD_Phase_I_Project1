@@ -21,7 +21,7 @@ import com.cg.healthassist.pharmacy.exception.MedicineNotFoundException;
 
 /** The PharmacyServicesImplTest class provides testing for PharmacyServicesImpl
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

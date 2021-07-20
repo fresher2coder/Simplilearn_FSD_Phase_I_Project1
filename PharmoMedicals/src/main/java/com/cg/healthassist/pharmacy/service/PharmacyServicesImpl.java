@@ -11,7 +11,7 @@ import com.cg.healthassist.pharmacy.exception.MedicineNotFoundException;
 
 /** The MedicalStoreServiceImpTest class provides methods for MedicalStoreService
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

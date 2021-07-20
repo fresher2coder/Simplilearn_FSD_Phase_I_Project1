@@ -7,7 +7,7 @@ import com.cg.healthassist.pharmacy.dto.Pharmacy;
 
 /** The PharmacyRepository layer provides jpa repository for CURD Methods
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

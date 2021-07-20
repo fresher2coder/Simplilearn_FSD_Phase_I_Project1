@@ -25,7 +25,7 @@ import com.cg.healthassist.pharmacy.service.PharmacyServicesImpl;
 
 /** The PharmacyController layer provides connections to url's for CURD Methods
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

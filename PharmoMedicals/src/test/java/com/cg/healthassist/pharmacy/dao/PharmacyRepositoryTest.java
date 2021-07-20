@@ -16,7 +16,7 @@ import com.cg.healthassist.pharmacy.dto.Pharmacy;
 
 /** The MedicalStoreDaoTest class provides testing for MedicalStoreDao
  * 
- * @author Rohith
+ * @author Dineshkumar
  * @version 2.0
  * 
  */

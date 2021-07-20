@@ -89,7 +89,7 @@ class PharmacyControllerTest {
 *//**
 	 * The PharmacyController class provides testing for Application
 	 * 
-	 * @author Rohith
+	 * @author Dineshkumar
 	 * @version 2.0
 	 * 
 	 */
